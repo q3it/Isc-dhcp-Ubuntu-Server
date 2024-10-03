@@ -117,4 +117,4 @@ DHCP automatiza y gestiona de forma centralizada las direcciones IP, en lugar de
 
 * [DHCP Wiki](https://es.wikipedia.org/wiki/Protocolo_de_configuraci%C3%B3n_din%C3%A1mica_de_host)
 * [ISC](https://www.isc.org/dhcp/)
-* [DHCP Ubuntu Server](https://www.thequbit.net/2024/09/dhcp-ubuntu-server.html)
+* [DHCP Ubuntu Server](https://help.ubuntu.com/community/isc-dhcp-server)
