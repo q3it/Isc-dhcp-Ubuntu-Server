@@ -105,10 +105,13 @@ host debi{
         fixed-address 192.168.227.140;
 }
 ```
+
+> [!TIP]
+> El desarrollo de esta práctica la encontraras en mi [blog](https://www.thequbit.net/2024/09/dhcp-ubuntu-server.html).
+
 ## Conclusiones
 
 DHCP automatiza y gestiona de forma centralizada las direcciones IP, en lugar de requerir que los administradores de red asignen las direcciones por su cuenta bajo el riesgo de asignar direcciones idénticas, lo que generará un posible conflicto.
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 ## Referencias
 
