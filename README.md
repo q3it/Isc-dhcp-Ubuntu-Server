@@ -51,7 +51,7 @@ group qbit{
 subnet 192.168.227.0 netmask 255.255.255.0 {
 	range 192.168.227.140 192.168.227.150;
 	option domain-name-servers 192.168.227.133;
-	option domain-name "clockwork.local";
+	option domain-name "thequbit.local";
 	option subnet-mask 255.255.255.0;
 	option routers 192.168.227.133;
 	option broadcast-address 192.168.227.255;
